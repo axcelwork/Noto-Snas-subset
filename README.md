@@ -1,0 +1,2 @@
+# Noto-Snas-subset
+のとさんのサブセットです
